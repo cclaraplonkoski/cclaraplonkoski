@@ -1,7 +1,7 @@
 ## bom dia 👋
 
 **cclaraplonkoski/cclaraplonkoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-sou a Clara, do 1a e estudo no Colégio Estadual Juscelino Kubitschek de Oliveira. 🐦‍⬛ 🧛‍♀️
+sou a Clara, do 1a e estudo no Colégio Estadual Juscelino Kubitschek de Oliveira. 🐦‍⬛ 🧛‍♀️ 🦇
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
